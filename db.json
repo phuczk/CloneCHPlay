@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "name": "phuc",
+      "pass": "123",
+      "id": "44d4"
+    }
+  ],
+  "products": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWPcvjuUybESPRe9Ma1NCOiee-z2oWR9wdQ&usqp=CAU",
+      "name": "Five night at Freddy",
+      "type": "new",
+      "imageArr": [
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 15000,
+      "id": "1"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Logo_2021.png",
+      "name": "Roblock",
+      "type": "new",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUUmtsPJH8Bp364xtO43XrewKMqRXwROfaw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1O6s9FTfk8Nc2SLXR2QjELsWEPVmK0Fw2Q&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vH1FCOfI-gGO-b83IDUYorUrsxmp6mP2sQ&usqp=CAU"
+      ],
+      "price": 123000,
+      "id": "2"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxLyZJgzAWBdYbLLRWt67TUnnjA4XrVhj5w&usqp=CAU",
+      "name": "Lien quan Mobile",
+      "type": "new",
+      "imageArr": [
+        "https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2023/09/hinh-nen-lien-quan-1.jpg.webp",
+        "https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2023/09/hinh-nen-lien-quan-5.jpg.webp",
+        "https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2023/09/hinh-nen-lien-quan-16.jpg.webp"
+      ],
+      "price": 22000,
+      "id": "3"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9uY7cNbK5i16ORtUpp42vGDePyoWpMTNDA&usqp=CAU",
+      "name": "Monster Hunter",
+      "type": "new",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4urOOdo0m8tv6p3ID6a_4EBkQoytjXqB2j_XTv8uYR9_XJwt2BUOWus0MSdqFPXUUd0&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G8n42vlmdTRqh_luqap1D8mfKjbAwj0cVQ&usqp=CAU",
+        "https://i.ytimg.com/vi/GMjUqeRyVTw/maxresdefault.jpg"
+      ],
+      "price": 18000,
+      "id": "4"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGP1yMXUasU6Op4lxNVAus_5TpzUzzi3Z9g&usqp=CAU",
+      "name": "Robot War",
+      "type": "new",
+      "imageArr": [
+        "https://www.dreamslayer28.com/wp-content/uploads/2020/06/griffin.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZHBEb8r_argGj45QtGz9ZT4EOgr3jZSUEyhW3-4nxiyKjeYFv3FC6hVS0USVKPFlHY0&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgByAVsWCDN44bYLjIO-CZR8CsmrI6ba2F-On2tOfyybaEK-QDTrB0zLBRykyOakfOO8&usqp=CAU"
+      ],
+      "price": 98000,
+      "id": "5"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAfxOwHU3Ex6vuI_gxI4uy4y-ODtLnP9Pbw&usqp=CAU",
+      "name": "Mobile Legend",
+      "type": "normal",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPAx__BgCMiYEJR_01e9WL3afa-B78Fm-2RyKkByYpzPS_osrihXyAucTEQFkE_cXeCw&usqp=CAU",
+        "https://img.tapimg.net/market/images/242d555ff3b0b299bf629f1109b9fa62.jpg?imageView2/2/w/1080/h/1080/q/80/format/jpg/interlace/1/ignore-error/1",
+        "https://img.tapimg.net/market/images/83ec185f40fed496a0c30afd3c5ce7f6.jpg?imageView2/2/w/1080/h/1080/q/80/format/jpg/interlace/1/ignore-error/1"
+      ],
+      "price": 88000,
+      "id": "6"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjAk_-Kse7VmTu7QMyzRKLIeocAh6lzMDbK4Gny5DmypgUY8NcoKQ6pFSvnK4SuNQ94w&usqp=CAU",
+      "name": "Shadow War",
+      "type": "normal",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPxoNwkiUX7c9-hUbWqw_FmMqCWCCQ_RDNg&usqp=CAU",
+        "https://images.kinguin.net/g/carousel-main-mobile/media/category/s/s/ss_3ef7006a85ca653a28ef560871e1f10322c4cd61.1920x1080_1535698541_1_2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmq-IMlmkjKcmS3PyvFNvgEN1My27BzWyhzlIaXxYLZpj_bV7TX3oeeExEgxRiyo6-8Ds&usqp=CAU"
+      ],
+      "price": 34000,
+      "id": "7"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/7A5HnzwTC6GOvJPydsoQbrMZUKl_A_9uPEb4Orh7qy8ZqzC8mwQgX8qFQGPOiJixNbY=w240-h480-rw",
+      "name": "The Invinsible",
+      "type": "normal",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlgokrppVsDD70KwQ0hFvkfZJyJU-YpF3cQ&usqp=CAU",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 12000,
+      "id": "8"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/YgTpLs2ipZVZWmQXs-5rhphb_xKdZ7RYhT509P4gI8uqWJ-uq7LtVwBc5YjwYOoF8Zk=w240-h480-rw",
+      "name": "Demon Slayer",
+      "type": "normal",
+      "imageArr": [
+        "https://img-cdn.2game.vn/2023/09/10/Devil-Slayer-1.jpg",
+        "https://play-lh.googleusercontent.com/QX4H47Xfw5mj63PJnyjCGqk3HuORGJUj9aQP4rJZhhov49ROXN2aXd8Man816Iht_Es=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/1SEcUKBWhA_w3HjHPCF9aexnkZXKdapAQIAvs-nqdhWbujiSvKUye5ZP53QyOkp9vQ=w526-h296-rw"
+      ],
+      "price": 62000,
+      "id": "9"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZjAk_-Kse7VmTu7QMyzRKLIeocAh6lzMDbK4Gny5DmypgUY8NcoKQ6pFSvnK4SuNQ94w&usqp=CAU",
+      "name": "Shadow War",
+      "type": "easey",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPxoNwkiUX7c9-hUbWqw_FmMqCWCCQ_RDNg&usqp=CAU",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 12000,
+      "id": "10"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/7A5HnzwTC6GOvJPydsoQbrMZUKl_A_9uPEb4Orh7qy8ZqzC8mwQgX8qFQGPOiJixNbY=w240-h480-rw",
+      "name": "The Invinsible",
+      "type": "easey",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlgokrppVsDD70KwQ0hFvkfZJyJU-YpF3cQ&usqp=CAU",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 12000,
+      "id": "11"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAfxOwHU3Ex6vuI_gxI4uy4y-ODtLnP9Pbw&usqp=CAU",
+      "name": "Mobile Legend",
+      "type": "easey",
+      "imageArr": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPAx__BgCMiYEJR_01e9WL3afa-B78Fm-2RyKkByYpzPS_osrihXyAucTEQFkE_cXeCw&usqp=CAU",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 12000,
+      "id": "12"
+    },
+    {
+      "image": "https://play-lh.googleusercontent.com/YgTpLs2ipZVZWmQXs-5rhphb_xKdZ7RYhT509P4gI8uqWJ-uq7LtVwBc5YjwYOoF8Zk=w240-h480-rw",
+      "name": "Demon Slayer",
+      "type": "easey",
+      "imageArr": [
+        "https://img-cdn.2game.vn/2023/09/10/Devil-Slayer-1.jpg",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png",
+        "https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+      ],
+      "price": 12000,
+      "id": "13"
+    }
+  ],
+  "favorite": [],
+  "vieweds": [
+    {
+      "id": "ca3c",
+      "image": {
+        "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxLyZJgzAWBdYbLLRWt67TUnnjA4XrVhj5w&usqp=CAU"
+      },
+      "productName": "Lien quan Mobile",
+      "productPrice": 22000
+    },
+    {
+      "id": "67da",
+      "image": {
+        "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxLyZJgzAWBdYbLLRWt67TUnnjA4XrVhj5w&usqp=CAU"
+      },
+      "productName": "Lien quan Mobile",
+      "productPrice": 22000
+    }
+  ],
+  "comments": [
+    {
+      "id": "ecf6",
+      "content": "Hi",
+      "star": 4,
+      "idGame": "3"
+    },
+    {
+      "id": "55d0",
+      "content": "Ổn",
+      "star": 3,
+      "idGame": "3"
+    },
+    {
+      "id": "e682",
+      "content": "Hay",
+      "star": 4,
+      "idGame": "3"
+    },
+    {
+      "id": "6768",
+      "content": "Hi",
+      "star": 5,
+      "idGame": "3"
+    }
+  ]
+}
